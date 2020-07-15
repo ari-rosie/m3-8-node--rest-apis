@@ -58,7 +58,7 @@ const words = [
     id: '1011',
     word: 'rodeo',
     letterCount: '5',
-  },
+  }
   
 ];
 
