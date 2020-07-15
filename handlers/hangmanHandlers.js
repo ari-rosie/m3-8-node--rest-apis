@@ -1,6 +1,5 @@
 const { words } = require('../data/words');
 const func = require('./hangman-utilities');
-const { checkLetter } = require('./hangman-utilities');
 
 const handlerWord = (req, res) => {
     const randomNum = Math.floor(Math.random() * words.length);
